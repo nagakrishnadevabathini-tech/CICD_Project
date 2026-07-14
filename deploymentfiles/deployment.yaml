@@ -25,4 +25,4 @@ spec:
         - name: fb-pod-cont
           image: nagakrishna123/nagakrishna_devabathini:httpdfacebook
           ports:
-            - containerPort: 8080
+            - containerPort: 80
