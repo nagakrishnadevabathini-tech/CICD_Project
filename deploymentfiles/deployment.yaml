@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: nagakrishna123/nagakrishna_devabathini:httpdfacebook
+          image: nagakrishna123/nagakrishna_devabathini:8
           ports:
             - containerPort: 80
